@@ -2,11 +2,11 @@
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
-<<<<<<< HEAD
+#<<<<<<< HEAD
 
 
-=======
->>>>>>> 0080a205415d52171c7e737afaae51242763b226
+#=======
+#>>>>>>> 0080a205415d52171c7e737afaae51242763b226
 # GitHub recommends pinning actions to a commit SHA.
 # To get a newer version, you will need to update the SHA.
 # You can also reference a tag or branch, but the action may change without warning.
